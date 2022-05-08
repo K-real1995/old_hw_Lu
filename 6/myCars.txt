@@ -1,0 +1,8 @@
+Ferarri,California,Blue,250,990
+BMW,X6,White,190,360
+Ferarri,California,Blue,250,990
+BMW,X6,White,190,360
+Ferarri,California,Blue,250,990
+BMW,X6,White,190,360
+Ferarri,California,Blue,250,990
+BMW,X6,White,190,360
